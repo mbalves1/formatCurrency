@@ -1,7 +1,7 @@
 ```shell
-npm install formatjs
+npm install formatjs-mb
 ```
 
 ```js
-const {formatCurrency} = require("formatjs")
+const {formatCurrency} = require("formatjs-mb")
 ```
