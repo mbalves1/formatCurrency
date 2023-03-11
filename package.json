@@ -5,8 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["currency", "BRL", "money"],
+  "author": "Murilo de Barros",
   "license": "ISC",
-  "description": ""
+  "description": "``` npm install formatjs ```",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbalves1/formatCurrency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbalves1/formatCurrency/issues"
+  },
+  "homepage": "https://github.com/mbalves1/formatCurrency#readme"
 }
