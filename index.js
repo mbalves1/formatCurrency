@@ -5,3 +5,7 @@ function formatCurrency(value) {
   });
   return formatter.format(value);
 }
+
+module.exports = {
+  formatCurrency
+};
